@@ -173,20 +173,20 @@ def reservation(event):
 def coach_info():
     image_carousel_columns = [
         ImageCarouselColumn(
-            image_url='https://i.imgur.com/Iv96EE7.jpg',
-            action=URIAction(uri='https://i.imgur.com/Iv96EE7.jpg')
+            image_url='https://i.imgur.com/0Jig8XG.jpg',
+            action=URIAction(uri='https://i.imgur.com/0Jig8XG.jpg')
         ),
         ImageCarouselColumn(
-            image_url='https://i.imgur.com/cd0aBCg.jpg',
-            action=URIAction(uri='https://i.imgur.com/cd0aBCg.jpg')
+            image_url='https://i.imgur.com/rDGKtDA.jpg',
+            action=URIAction(uri='https://i.imgur.com/rDGKtDA.jpg')
         ),
         ImageCarouselColumn(
-            image_url='https://i.imgur.com/pfJOQQ4.jpg',
-            action=URIAction(uri='https://i.imgur.com/pfJOQQ4.jpg')
+            image_url='https://i.imgur.com/aXPcEd9.jpg',
+            action=URIAction(uri='https://i.imgur.com/aXPcEd9.jpg')
         ),
         ImageCarouselColumn(
-            image_url='https://i.imgur.com/yo3BWLw.jpg',
-            action=URIAction(uri='https://i.imgur.com/yo3BWLw.jpg')
+            image_url='https://i.imgur.com/8XE1Fyj.jpg',
+            action=URIAction(uri='https://i.imgur.com/8XE1Fyj.jpg')
         )
     ]
 
